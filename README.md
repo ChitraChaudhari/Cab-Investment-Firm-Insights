@@ -14,14 +14,10 @@ We have given 4 datasets.
 
 - Transaction_ID.csv
 
-US Bank holidays.csv is added dataset which describes US holidays
-
-- US Bank holidays.csv
 
 Profit is defined as: Profit = Price Charged - Cost of Trip
 
-
-Hypothesis and Conclusions are provided in the EDA notebook
+EDA and Conclusions are provided in the EDA notebook
 
 Data Intake Report is also added in this repository.
 
